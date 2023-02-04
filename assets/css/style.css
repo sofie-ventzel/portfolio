@@ -1,0 +1,72 @@
+
+/* resets */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 1%;
+}
+ /* global */
+body {
+    background-color: rgba(67, 95, 78, 0.966);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: rgb(61, 58, 58);
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    max-height: 300px;
+}
+
+section {
+    background-color: rgb(189, 194, 190);
+}
+ /*  header styles  */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 7px 3%;
+    background-color: rgb(29, 50, 29);
+    color: antiquewhite;
+}
+
+header nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+header nav ul li {
+    width: 70%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+header nav a {
+    color: antiquewhite;
+    font-size: medium;
+}
+/* hero banner */
+.hero-banner {
+    text-align: center;
+}
+
+ /*  about styles  */
+.page-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+ /*  projects styles  */
+
+ /*  contact styles  */
+#contact { /*set on the id*/
+    text-align: center;
+}
+#contact img {
+    width: 20%;
+}
+
+#contact div {
+    width: 20%;
+}
