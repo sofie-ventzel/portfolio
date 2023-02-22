@@ -68,7 +68,6 @@ header nav a {
     display: grid;
     grid-gap: 0.5%;
     grid-template-columns: repeat(autofill, 1fr 1fr);
-    color: antiquewhite;
  }
 
 .a {
