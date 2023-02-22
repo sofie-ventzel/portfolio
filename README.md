@@ -13,7 +13,7 @@ I have chosen to use my staircase photos as placeholder images for the different
 ## Usage
 Use the links in the navigation to jump to other sections on the page. In the sections you will find links to projects and a section with contact info.
 
-md![screenshot of page](assets/images/screenshot.png)
+md ![screenshot of page](assets/images/screenshot.PNG)
 
 ## Credits
 * edX Boot Camps LLC.
